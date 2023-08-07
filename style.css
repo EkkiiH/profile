@@ -1,7 +1,6 @@
 body{
   font-family:Space Mono;
   background: rgb(55,0,117);
-  background: linear-gradient(45deg, rgba(55,0,117,1) 10%, rgba(231,0,255,1) 50%, rgba(253,186,49,1) 90%);
   hyphens: none;
   text-align: justify;
   margin: 2em;
